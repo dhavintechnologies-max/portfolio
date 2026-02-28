@@ -33,7 +33,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
           transition={{ duration: 0.2 }}
-          className="fixed inset-0 z-[60] bg-bg-dark/95 backdrop-blur-xl"
+          className="fixed inset-0 z-60 bg-bg-dark/95 backdrop-blur-xl"
         >
           <div className="flex h-full flex-col px-6 py-6">
             {/* Header */}

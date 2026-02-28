@@ -11,10 +11,10 @@ export const NAV_LINKS = [
 ] as const;
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://linkedin.com/company/dhavintech",
-  twitter: "https://x.com/dhavintech",
-  github: "https://github.com/dhavintech",
-  instagram: "https://instagram.com/dhavintech",
+  linkedin: "https://www.linkedin.com/in/dhavin-tech-b0917a3b4/",
+  twitter: "https://x.com/DhavinTech",
+  github: "https://github.com/dhavintechnologies-max",
+  instagram: "https://www.instagram.com/dhavintechnologies/",
 } as const;
 
 export const CONTACT_INFO = {
